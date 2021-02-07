@@ -1,6 +1,3 @@
-
-
-
 def listDivide(numbers, divide=2):
     count = 0
     for i in numbers:
